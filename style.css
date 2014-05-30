@@ -46,6 +46,7 @@ input, select, form, ul {
 	float: left;
 	padding-right: 13px;
 	max-height: 50px;
+	min-width: 50px;
 }
 
 .friend{
